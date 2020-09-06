@@ -1,0 +1,81 @@
+List: It is a complex data type that is derived from LIST obejct. There are some default functions in the List function. They are:
+1. append() - adds at the end of the list
+2. clear()
+3. copy()
+4. count()
+5. extend()
+6. index()
+7. insert()
+8. pop()
+9. remove()
+10. reverse()
+
+
+Dictionary: It is a key-value pair. Data is stored in the following way.
+{"key":"value"}. The default functions that come with the dictionary function are:
+1. clear()
+2. copy()
+3. fromkeys()
+4. get()
+5. items()
+6. keys()
+7. pop()
+8. popitem()
+9. setdefault()
+10. update()
+-> to add an element to the dictionary you can add by:
+dit["varname"] = "value"
+
+
+Sets: They are the class in Python whose object can be derived and, are used for storing values in Python.
+
+
+**** dict and set are classes in Python.****
+
+
+The default functions that come with the set function are:
+1. add()
+2. clear()
+3. copy()
+4. difference()
+5. difference_update()
+6. discard()
+7. intersection()
+8. intersection_update()
+9. isdisjoint()
+10. issubset()
+
+
+Tuples: They are the ordered and immutable collection of objects in Python.once the data is written it can't be changed in tuples. 
+
+
+Boolean: This basic data type which stores values in TRUE or FALSE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
