@@ -1,0 +1,100 @@
+OPERATORS
+
+Operators are used for performing different kinds of operations on operands.
+some basic operations are:
+1. == :- Double equal: checks whether the two variables are equal or not
+Ex: a==b is true
+2. != :- not equal: checks whether the two variables are not equal or not
+Ex: a!=b is true
+3. > :- greater than: checks if the left side of the operator is greater than right side of the operator
+Ex: a>b is true
+4. >= :- greater than and equal to: checks if the left value is greater and equal than right value.
+Ex: a>=b is false
+5.< :- less than: checks if the left side value is less than right value
+Ex: a<b is true
+6. <= :- less than and equal to: checks if the left value is less thn and equal to right side value.
+Ex: a<=b is false.
+
+---------------------------------------------------------------------------------------------------------------
+
+LOGICAL COMPARISON OPERATORS
+
+1. AND : used when your both given conditions should be satisfied/met.
+Ex: 1. a = true
+b = true
+c = a and b
+print(c)
+o/p: true
+2. a = false
+b = true
+c = a and b
+print(c)
+o/p: false
+
+2. OR : used when either one of your given conditions should be satisfied/met.
+Ex:
+1. a = true
+b = false
+c = a or b
+print(c)
+o/p: true
+2. 1. a = true
+b = true
+c = a or b
+print(c)
+o/p: true
+3.1. a = false
+b = false
+c = a or b
+print(c)
+o/p: false
+
+3. NOT : shows the opposite of your input.
+Ex:
+1. a = True
+print(not a)
+o/p: false
+2. a = false
+print(not a)
+o/p: true
+
+---------------------------------------------------------------------------------------------------------------
+
+CHAINED COMPARISON OPERATORS:
+
+1. Decision making
+2. to control the flow - if
+elif
+else
+
+
+*** Indendation in Python isof 4 spaces ***
+
+---------------------------------------------------------------------------------------------------------------
+
+LOOPS: 
+They are used for performing a set of statements that repeat themselves until a specific condition is met.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+HOW TO TAKE INPUT FROM USER IN PYTHON
+
+num = input("Enter a number")##using input function that is sed to take the user input in Python
+int(number) ## type conversion  
+
+or 
+
+num = int(input("enter a number:"))
+
+-----------------------------------------------------------------------------------------------------------
+
+ODD or EVEN NUMBER
+
+num = int(input("enter a number"))
+if num%2==0:
+   print("Even Number")
+else:
+   print("Odd Number")
+
+---------------------------------------------------------------------------------------------------------------
+PRINTING MULTIPLICATION TABLE 
+
+for item in lst:
+      num = 5
+      print(item,"x",num,"=",item*num)
+
+*** we can use else with for loop i python ***
